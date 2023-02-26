@@ -10,3 +10,6 @@ WikiQuiz ma na celu przeanalizowanie dowolnego artykułu z polskiej Wikipedii i 
 <h2>Cel</h2>
 Projekt zaliczeniowy w ramach programu studiów
 
+<img src="images/001.png" alt="Alt text" title="Optional title">
+<img src="images/002.png" alt="Alt text" title="Optional title">
+
