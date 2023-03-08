@@ -1,4 +1,5 @@
 # WikiQuiz
+[![Generic badge](https://img.shields.io/badge/languge-polish-red.svg)](https://shields.io/)
 <h2>Opis</h2>
 WikiQuiz ma na celu przeanalizowanie dowolnego artykułu z polskiej Wikipedii i wygenerowanie na jego podstawie pytań dla użytkownika z maksymalnie 4 możliwymi wariantami odpowiedzi. Pytanie ma formę wylosowanego zdania z luką (usuniętym wyrazem lub wyrazami), którą użytkownik musi uzupełnić wskazując jedną z zaproponowanych odpowiedzi.
 
